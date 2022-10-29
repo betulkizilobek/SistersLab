@@ -1,4 +1,4 @@
-SistersLab Python
-# SonDeneme
+SistersLabs Python
+# WomenInTechAcademy
 
-SistersLab Python Eğitimi için oluşturulmuş test reposudur.
+SistersLab Python Eğitimi için oluşturulmuş repodur.
